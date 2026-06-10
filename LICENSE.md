@@ -1,4 +1,4 @@
-
+Encrypt.me smart Client: split-tunneling & dedicated-IP is the best Encrypt.me client, featuring split-tunneling and dedicated-IP. Secure, fast, and optimized for privacy.
 
 
 
